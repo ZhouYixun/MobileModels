@@ -1,4 +1,16 @@
 # CHANGELOG
+## 2022-01-29
+- `huawei_global_en` Add HUAWEI P50 Pocket.
+## 2022-01-26
+- `huawei_global_en` Add HUAWEI P50 Pro & nova 9.
+- `xiaomi_en` Add Redmi Note 11 series.
+## 2022-01-25
+- `realme_global_en` Add realme 9i.
+## 2022-01-24
+- `google_en` Add Pixel device models (models for Nexus will be added later).
+- `oppo_global_en` Add several new models.
+## 2022-01-19
+- `xiaomi_en` Add Xiaomi 11T Pro (Indian model).
 ## 2022-01-11
 - `oneplus_en` Add OnePlus 10 Pro.
 ## 2021-12-28

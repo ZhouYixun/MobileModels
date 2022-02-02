@@ -235,6 +235,14 @@
 
 `ART-L29`: HUAWEI P40 lite E Dual SIM
 
+**HUAWEI P50 Pro (`jade`):**
+
+`JAD-LX4` `JAD-LX9`: HUAWEI P50 Pro
+
+**HUAWEI P50 Pocket:**
+
+`BAL-L49`: HUAWEI P50 Pocket
+
 **HUAWEI P smart (`figo`):**
 
 `FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P smart
@@ -336,6 +344,10 @@
 **HUAWEI nova 8i (`newton`):**
 
 `NEN-L22`: HUAWEI nova 8i
+
+**HUAWEI nova 9 (`nottinghamN`):**
+
+`NAM-L09`: HUAWEI nova 9
 
 **HUAWEI nova Y60 (`wukong`):**
 
