@@ -260,3 +260,7 @@
 `DN2101`: OnePlus Nord 2 5G India
 
 `DN2103`: OnePlus Nord 2 5G EU
+
+**OnePlus Nord CE 2 (`ivan`):**
+
+`IV2201`: OnePlus Nord CE 2 India
