@@ -441,9 +441,9 @@
 
 `M1910F4E`: Mi CC 9 Pro China
 
-**[`F9B`] Xiaomi Civi (`mona`):**
+**[`F9B`] Xiaomi Civi / Xiaomi Civi 1S (`mona`):**
 
-`2109119BC`: Xiaomi Civi China
+`2109119BC`: Xiaomi Civi China / Xiaomi Civi 1S China
 
 **[`F9`] Mi Play (`lotus`):**
 
@@ -1083,6 +1083,12 @@
 
 `2104K19J` `XIG02`: Redmi Note 10 JE Japan (KDDI)
 
+**[`K19K`] Redmi Note 10T (`lilac`):**
+
+`22021119KR`: Redmi Note 10T Japan (SIM Free)
+
+`A101XM`: Redmi Note 10T Japan (SoftBank)
+
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro Global
@@ -1162,6 +1168,8 @@
 `2201116SR`: Redmi Note 11 Pro 5G Japan
 
 `2201116SC`: Redmi Note 11E Pro China
+
+**[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
 
 `2201116SI`: Redmi Note 11 Pro+ 5G India
 
@@ -1363,6 +1371,8 @@
 
 `2201116PG`: POCO X4 Pro 5G Global
 
+**[`K6P`] POCO X4 Pro 5G (`peux`):**
+
 `2201116PI`: POCO X4 Pro 5G India
 
 **[`J19P`] POCO M2 (`shiva`):**
@@ -1469,6 +1479,8 @@
 
 **Black Shark 4 Pro (`kaiser`):**
 
+`SHARK KSR-H0`: Black Shark 4 Pro Global
+
 `SHARK KSR-A0`: Black Shark 4 Pro China
 
 **Black Shark 4S (`penrose`):**
@@ -1479,6 +1491,18 @@
 
 `SHARK KSR-A0`: Black Shark 4S Pro China
 
+**Black Shark 5 (`patriot`):**
+
+`SHARK PAR-A0`: Black Shark 5 China
+
+**Black Shark 5 RS (`kaiser`):**
+
+`SHARK KSR-A0`: Black Shark 5 RS China
+
+**Black Shark 5 Pro (`katyusha`):**
+
+`SHARK KTUS-A0`: Black Shark 5 Pro China
+
 ## Others
 
 **Mi Watch (`baiji`):**
@@ -1488,3 +1512,7 @@
 **Xiaomi Mijia Translator (`FYJ01QP`):**
 
 `FYJ01QP`: Xiaomi Mijia Translator
+
+**[`K91`] Xiaomi CyberDog:**
+
+`21051191C`: Xiaomi CyberDog Bio-inspired Quadruped Robot

@@ -1,4 +1,26 @@
 # 更新日志
+## 2022-04-18
+- `lenovo` 新增 联想平板电脑系列（部分型号）。
+- `oppo_cn` 新增 OPPO K10 系列。
+- `xiaomi` 新增 Xiaomi Civi 1S。
+## 2022-04-14
+- `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
+- `vivo` 新增 vivo S15 系列。
+- `xiaomi` 新增 Redmi Note 10T 日版。
+- `zte` 新增 中兴远航 30 系列。
+## 2022-04-13
+- `oneplus` 新增 一加 Ace。
+- `realme_cn` 新增 真我 Q5 系列 & 真我 V23。
+## 2022-04-12
+- `oppo_cn` 新增 OPPO A57 (2022)。
+## 2022-04-02
+- `honor_cn` 新增 荣耀 Play6T 系列。
+- `motorola` 更新产品代号。
+## 2022-03-30
+- `xiaomi` 新增 黑鲨 5 系列。
+## 2022-03-29
+- `honor_cn` 增补 荣耀平板 Z3。
+- `vivo` 新增 vivo X Fold, X Note & vivo Pad 及 iQOO Neo6。
 ## 2022-03-26
 - `zhixuan` 新增 优畅享 50 Plus。
 ## 2022-03-25

@@ -1,4 +1,22 @@
 # CHANGELOG
+## 2022-04-18
+- `xiaomi_en` Add Xiaomi Civi 1S (China).
+## 2022-04-14
+- `oneplus_en` Add OnePlus 10R (India).
+- `xiaomi_en` Add Redmi Note 10T (Japan).
+## 2022-04-13
+- `oneplus_en` Add OnePlus Ace (China) & OnePlus Nord CE 2 Lite (India).
+- `realme_global_en` Add realme C31.
+## 2022-04-08
+- `realme_global_en` Add realme 9 (4G).
+## 2022-03-30
+- `xiaomi_en` Add Black Shark 5 series (China).
+## 2022-03-29
+- `honor_global_en` Add HONOR X7, X8 & X9 5G.
+## 2022-03-28
+- `realme_global_en` Add realme Pad mini.
+## 2022-03-27
+- `oppo_global_en` Add several new models.
 ## 2022-03-22
 - `realme_global_en` Add realme GT 2 series.
 ## 2022-03-17

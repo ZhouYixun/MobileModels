@@ -101,6 +101,10 @@
 
 `RMX3381`: realme 8s 5G
 
+**realme 9:**
+
+`RMX3521`: realme 9
+
 **realme 9i:**
 
 `RMX3491` `RMX3493`: realme 9i
@@ -243,6 +247,10 @@
 
 `RMX3265` `RMX3269`: realme C25Y
 
+**realme C31:**
+
+`RMX3501`: realme C31
+
 **realme C35:**
 
 `RMX3511`: realme C35
@@ -336,3 +344,7 @@
 **realme Pad:**
 
 `RMP2102` `RMP2103`: realme Pad
+
+**realme Pad mini:**
+
+`RMP2105` `RMP2106`: realme Pad mini

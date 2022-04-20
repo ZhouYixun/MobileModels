@@ -456,9 +456,9 @@
 
 `M1910F4E`: 小米 CC9 Pro 全网通版
 
-**[`F9B`] Xiaomi Civi (`mona`):**
+**[`F9B`] Xiaomi Civi / Xiaomi Civi 1S (`mona`):**
 
-`2109119BC`: Xiaomi Civi 全网通版
+`2109119BC`: Xiaomi Civi 全网通版 / Xiaomi Civi 1S 全网通版
 
 ## 小米 Play 系列
 
@@ -1114,6 +1114,12 @@
 
 `2104K19J` `XIG02`: Redmi Note 10 JE 日本版 (KDDI)
 
+**[`K19K`] Redmi Note 10T (`lilac`):**
+
+`22021119KR`: Redmi Note 10T 日本版 (SIM Free)
+
+`A101XM`: Redmi Note 10T 日本版 (SoftBank)
+
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro 国际版
@@ -1197,6 +1203,8 @@
 `2201116SG`: Redmi Note 11 Pro 5G 国际版
 
 `2201116SR`: Redmi Note 11 Pro 5G 日本版
+
+**[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
 
 `2201116SI`: Redmi Note 11 Pro+ 5G 印度版
 
@@ -1400,6 +1408,8 @@
 
 `2201116PG`: POCO X4 Pro 5G 国际版
 
+**[`K6P`] POCO X4 Pro 5G (`peux`):**
+
 `2201116PI`: POCO X4 Pro 5G 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
@@ -1508,6 +1518,8 @@
 
 `SHARK KSR-A0`: 黑鲨 4 Pro 全网通版
 
+`SHARK KSR-H0`: 黑鲨 4 Pro 国际版
+
 **黑鲨 4S (`penrose`):**
 
 `SHARK PRS-A0`: 黑鲨 4S 全网通版
@@ -1515,6 +1527,18 @@
 **黑鲨 4S Pro (`kaiser`):**
 
 `SHARK KSR-A0`: 黑鲨 4S Pro 全网通版
+
+**黑鲨 5 (`patriot`):**
+
+`SHARK PAR-A0`: 黑鲨 5 全网通版
+
+**黑鲨 5 RS (`kaiser`):**
+
+`SHARK KSR-A0`: 黑鲨 5 RS 全网通版
+
+**黑鲨 5 Pro (`katyusha`):**
+
+`SHARK KTUS-A0`: 黑鲨 5 Pro 全网通版
 
 ## 其他系列
 
@@ -1525,3 +1549,7 @@
 **小米米家翻译机 (`FYJ01QP`):**
 
 `FYJ01QP`: 小米米家翻译机
+
+**[`K91`] CyberDog 仿生四足机器人:**
+
+`21051191C`: CyberDog 仿生四足机器人

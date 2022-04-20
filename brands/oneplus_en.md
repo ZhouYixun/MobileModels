@@ -33,8 +33,6 @@
 
 **OnePlus 3T (`oneplus3t`):**
 
-`ONEPLUS A3000`: OnePlus 3T North America
-
 `ONEPLUS A3003`: OnePlus 3T Global
 
 `ONEPLUS A3010`: OnePlus 3T China
@@ -65,9 +63,9 @@
 
 `GM1901`: OnePlus 7 India
 
-`GM1903`: OnePlus 7 EU / Global
+`GM1903`: OnePlus 7 EU
 
-`GM1905`: OnePlus 7 NA
+`GM1905`: OnePlus 7 North America / Global
 
 **OnePlus 7 Pro (`guacamole`):**
 
@@ -75,13 +73,13 @@
 
 `GM1911`: OnePlus 7 Pro India
 
-`GM1913`: OnePlus 7 Pro Global
+`GM1913`: OnePlus 7 Pro EU
  
-`GM1915`: OnePlus 7 Pro EU
+`GM1915`: OnePlus 7 Pro North America / Global
 
 **OnePlus 7 Pro (`guacamolet`):**
 
-`GM1917`: OnePlus 7 Pro North America / T-Mobile
+`GM1917`: OnePlus 7 Pro T-Mobile
 
 **OnePlus 7 Pro 5G (`guacamoleg`):**
 
@@ -97,9 +95,9 @@
 
 `HD1901`: OnePlus 7T India
 
-`HD1903`: OnePlus 7T EU / Global
+`HD1903`: OnePlus 7T EU
 
-`HD1905`: OnePlus 7T North America
+`HD1905`: OnePlus 7T North America / Global
 
 **OnePlus 7T (`hotdogt`):**
 
@@ -123,9 +121,9 @@
 
 `IN2011`: OnePlus 8 India
 
-`IN2013`: OnePlus 8 EU / Global
+`IN2013`: OnePlus 8 EU
 
-`IN2015`: OnePlus 8 Visible North America
+`IN2015`: OnePlus 8 North America / Global
 
 **OnePlus 8 (`instantnoodlet`):**
 
@@ -133,7 +131,7 @@
 
 **OnePlus 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 UW Verzion
+`IN2019`: OnePlus 8 Visible / Verzion
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -141,9 +139,9 @@
 
 `IN2021`: OnePlus 8 Pro India
 
-`IN2023`: OnePlus 8 Pro EU / Global
+`IN2023`: OnePlus 8 Pro EU
 
-`IN2025`: OnePlus 8 Pro North America
+`IN2025`: OnePlus 8 Pro North America / Global
 
 **OnePlus 8T (`kebab`):**
 
@@ -151,13 +149,13 @@
 
 `KB2001`: OnePlus 8T India
 
-`KB2003`: OnePlus 8T EU / Global
+`KB2003`: OnePlus 8T EU
 
-`KB2005`: OnePlus 8T North America
+`KB2005`: OnePlus 8T North America / Global
 
-**OnePlus 8T (`kebabt`):**
+**OnePlus 8T+ (`kebabt`):**
 
-`KB2007`: OnePlus 8T T-Mobile
+`KB2007`: OnePlus 8T+ T-Mobile
 
 **OnePlus 9R (`lemonades`):**
 
@@ -171,9 +169,9 @@
 
 `LE2111`: OnePlus 9 India
 
-`LE2113`: OnePlus 9 EU / Global
+`LE2113`: OnePlus 9 EU
 
-`LE2115`: OnePlus 9 North America
+`LE2115`: OnePlus 9 North America / Global
 
 **OnePlus 9 (`lemonadet`):**
 
@@ -189,9 +187,9 @@
 
 `LE2121`: OnePlus 9 Pro India
 
-`LE2123`: OnePlus 9 Pro EU / Global
+`LE2123`: OnePlus 9 Pro EU
 
-`LE2125`: OnePlus 9 Pro North America
+`LE2125`: OnePlus 9 Pro North America / Global
 
 **OnePlus 9 Pro (`lemonadept`):**
 
@@ -212,6 +210,16 @@
 `NE2213`: OnePlus 10 Pro EU / Global
 
 `NE2215`: OnePlus 10 Pro North America
+
+`NE2217`: OnePlus 10 Pro T-Mobile
+
+**OnePlus 10R / OnePlus Ace (`pickle`):**
+
+`CPH2411`: OnePlus 10R Global
+
+`CPH2381`: OnePlus 10R India
+
+`PGKM10`: OnePlus Ace China
 
 **OnePlus Nord (`avicii`):**
 
@@ -264,3 +272,9 @@
 **OnePlus Nord CE 2 (`ivan`):**
 
 `IV2201`: OnePlus Nord CE 2 India
+
+**OnePlus Nord CE 2 Lite:**
+
+`CPH2401`: OnePlus Nord CE 2 Lite India
+
+`CPH2409`: OnePlus Nord CE 2 Lite Global
