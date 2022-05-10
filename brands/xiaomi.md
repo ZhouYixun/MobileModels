@@ -456,9 +456,13 @@
 
 `M1910F4E`: 小米 CC9 Pro 全网通版
 
-**[`F9B`] Xiaomi Civi / Xiaomi Civi 1S (`mona`):**
+**[`K9B`] Xiaomi Civi (`mona`):**
 
-`2109119BC`: Xiaomi Civi 全网通版 / Xiaomi Civi 1S 全网通版
+`2109119BC`: Xiaomi Civi 全网通版
+
+**[`K9E`] Xiaomi Civi 1S (`zijin`):**
+
+`2109119BC`: Xiaomi Civi 1S 全网通版
 
 ## 小米 Play 系列
 
@@ -770,9 +774,9 @@
 
 `M2006C3LVG`: Redmi 9AT 国际版
 
-`M2006C3LI`: Redmi 9A / Redmi 9A Sport 印度版
+`M2006C3LI`: Redmi 9A 印度版 / Redmi 9A Sport 印度版
 
-`M2006C3LII`: Redmi 9i / Redmi 9i Sport 印度版
+`M2006C3LII`: Redmi 9i 印度版 / Redmi 9i Sport 印度版
 
 **[`C3M`] Redmi 9C (`angelica`):**
 
@@ -786,7 +790,7 @@
 
 **[`C3MI`] Redmi 9 / Redmi 9 Activ (`cattail`):**
 
-`M2006C3MII`: Redmi 9 / Redmi 9 Activ 印度版
+`M2006C3MII`: Redmi 9 印度版 / Redmi 9 Activ 印度版
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
@@ -848,9 +852,9 @@
 
 `220333QAG`: Redmi 10C 国际版
 
-**[`C3QB`] Redmi 10 (`fog`):**
+**[`C3QB`] Redmi 10 / Redmi 10 Power (`fog`):**
 
-`220333QBI`: Redmi 10 印度版
+`220333QBI`: Redmi 10 印度版 / Redmi 10 Power 印度版
 
 **[`C3L2`] Redmi 10A (`dandelion`):**
 
@@ -936,7 +940,7 @@
 
 `2016130`: 红米 Note 4X 高通 移动 4G+ 版
 
-`2016100` `2016102`: 红米 Note 4 / 红米 Note 4X 高通 国际版
+`2016100` `2016102`: 红米 Note 4 国际版 / 红米 Note 4X 高通 国际版
 
 **[`B6A`] 红米 Note 4X (`nikel`):**
 
@@ -996,7 +1000,7 @@
 
 `M1901F7G` `M1901F7H`: Redmi Note 7 国际版
 
-`M1901F7I`: Redmi Note 7 / Redmi Note 7S 印度版
+`M1901F7I`: Redmi Note 7 印度版 / Redmi Note 7S 印度版
 
 **[`F7B`] Redmi Note 7 Pro (`violet`):**
 
@@ -1066,7 +1070,7 @@
 
 `M2003J6A1G`: Redmi Note 9S 国际版
 
-`M2003J6A1R`: Redmi Note 9S 日本版 / 韩国版
+`M2003J6A1R`: Redmi Note 9S 日本版 / Redmi Note 9S 韩国版
 
 `M2003J6A1I`: Redmi Note 9 Pro 印度版
 
@@ -1464,7 +1468,7 @@
 
 `M2006C3MI`: POCO C3 印度版
 
-**[`C3M`] POCO C31 (`angelicain`):**
+**[`C3M2`] POCO C31 (`angelicain`):**
 
 `211033MI`: POCO C31 印度版
 

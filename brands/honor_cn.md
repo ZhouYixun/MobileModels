@@ -198,7 +198,7 @@
 
 `TNA-TN00`: 荣耀 60 Pro 5G 移动版
 
-**荣耀 60 SE:**
+**荣耀 60 SE (`gina`):**
 
 `GIA-AN00`: 荣耀 60 SE 5G 全网通版
 
@@ -398,7 +398,7 @@
 
 `CHL-AN00`: 荣耀 X20 SE 5G 全网通版
 
-**荣耀 X30:**
+**荣耀 X30 (`andy`):**
 
 `ANY-AN00`: 荣耀 X30 5G 全网通版
 
@@ -652,6 +652,10 @@
 
 `HJC-LX9`: 荣耀畅玩 20 Pro 全网通版
 
+**荣耀畅玩 30:**
+
+`VNE-AN00`: 荣耀畅玩 30 5G 全网通版
+
 **荣耀畅玩 30 Plus (`carmella`):**
 
 `CMA-AN00`: 荣耀畅玩 30 Plus 5G 全网通版
@@ -732,7 +736,7 @@
 
 `KOB2-AL00HN`: 荣耀平板 X7 8 英寸 全网通版
 
-**荣耀平板 Z3 (`agassiM`):**
+**荣耀平板 Z3 (`agassiRM`):**
 
 `AGM-W09HN`: 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 
@@ -995,6 +999,16 @@
 `BBR-WAI9`: 荣耀 MagicBook X 15 i3
 
 `BBR-WAH9`: 荣耀 MagicBook X 15 i5
+
+**荣耀 MagicBook X 14 2022 (`nobelDR`):**
+
+`NDR-WFH`: 荣耀 MagicBook X 14 2022 i5
+
+**荣耀 MagicBook X 15 2022 (`bohrDR`):**
+
+`BDR-WDH`: 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
+
+`BDR-WFH`: 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
 
 **荣耀猎人游戏本 V700:**
 
