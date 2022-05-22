@@ -1,4 +1,10 @@
 # CHANGELOG
+## 2022-05-21
+- `xiaomi_en` Add Redmi 10C, Note 11T Pro & POCO C40.
+## 2022-05-18
+- `realme_en` Add realme Narzo 50 series.
+## 2022-05-17
+- `oneplus_en` Add OnePlus Ace Speed (China) & OnePlus Nord N20 5G.
 ## 2022-04-30
 - `realme_global_en` Add realme GT NEO 3.
 ## 2022-04-27

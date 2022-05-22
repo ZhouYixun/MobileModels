@@ -1,4 +1,15 @@
 # 更新日志
+## 2022-05-21
+- `vivo` 新增 vivo Y72t。
+- `xiaomi` 新增 Redmi Note 11T 系列等。
+## 2022-05-19
+- `vivo` 新增 vivo S15 系列 & T2。
+## 2022-05-17
+- `motorola` 新增 moto g71s。
+- `oneplus` 新增 一加 Ace 竞速版。
+## 2022-05-16
+- `honor_cn` 新增 荣耀 MagicBook 14 2022。
+- `zte` 新增 中兴天机 A41 系列。
 ## 2022-05-08
 - `zte` 新增 中兴 Axon 40 系列。
 ## 2022-05-07
