@@ -19,6 +19,10 @@
 
 `VP004`: 优畅享 30e 5G 消息版
 
+**优畅享 50:**
+
+`VP003`: 优畅享 50 5G
+
 **优畅享 50 Plus:**
 
 `VP005`: 优畅享 50 Plus 5G
@@ -88,3 +92,7 @@
 **TD Tech M40:**
 
 `TDT-MA01`: TD Tech M40
+
+**TD Tech P50:**
+
+`AVA-PA00`: TD Tech P50

@@ -322,6 +322,28 @@
 
 `2201122G`: Xiaomi 12 Pro 国际版
 
+**[`L2M`] Xiaomi 12 Pro 天玑版 (`daumier`):**
+
+`2207122MC`: Xiaomi 12 Pro 天玑版 全网通版
+
+**[`L9`] Xiaomi 12 Lite (`taoyao`):**
+
+`2203129G`: Xiaomi 12 Lite 国际版
+
+`2203129I`: Xiaomi 12 Lite 印度版
+
+**[`L3S`] Xiaomi 12S (`mayfly`):**
+
+`2206123SC`: Xiaomi 12S 全网通版
+
+**[`L2S`] Xiaomi 12S Pro (`unicorn`):**
+
+`2206122SC`: Xiaomi 12S Pro 全网通版
+
+**[`L1`] Xiaomi 12S Ultra (`thor`):**
+
+`2203121C`: Xiaomi 12S Ultra 全网通版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -1110,9 +1132,9 @@
 
 `M2101K7BL`: Redmi Note 10S 拉美版
 
-**[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellia`):**
+**[`K19`] Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE (`camellia`):**
 
-`M2103K19C`: Redmi Note 10 5G 全网通版
+`M2103K19C`: Redmi Note 10 5G 全网通版 / Redmi Note 11SE 全网通版
 
 `M2103K19I`: Redmi Note 10T 5G 印度版
 
@@ -1388,9 +1410,7 @@
 
 `22021211RG`: POCO F4 国际版
 
-**[`L11`] POCO F4 Pro (`matisse`):**
-
-`22011211G`: POCO F4 Pro 国际版
+`22021211RI`: POCO F4 印度版
 
 **[`L10`] POGO F4 GT (`ingres`):**
 
@@ -1431,6 +1451,14 @@
 **[`K6P`] POCO X4 Pro 5G (`peux`):**
 
 `2201116PI`: POCO X4 Pro 5G 印度版
+
+**[`L16`] POCO X4 GT (`xaga`):**
+
+`22041216G`: POCO X4 GT 国际版
+
+**[`L16U`] POCO X4 GT Pro (`xagapro`):**
+
+`22041216UG`: POCO X4 GT Pro 国际版
 
 **[`J19P`] POCO M2 (`shiva`):**
 
@@ -1558,6 +1586,8 @@
 
 `SHARK PAR-A0`: 黑鲨 5 全网通版
 
+`SHARK PAR-H0`: 黑鲨 5 国际版
+
 **黑鲨 5 RS (`kaiser`):**
 
 `SHARK KSR-A0`: 黑鲨 5 RS 全网通版
@@ -1565,6 +1595,8 @@
 **黑鲨 5 Pro (`katyusha`):**
 
 `SHARK KTUS-A0`: 黑鲨 5 Pro 全网通版
+
+`SHARK KTUS-H0`: 黑鲨 5 Pro 国际版
 
 ## 其他系列
 

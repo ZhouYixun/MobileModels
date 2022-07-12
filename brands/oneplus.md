@@ -40,7 +40,7 @@
 
 `ONEPLUS A3010`: OnePlus 3T 全网通版
 
-`ONEPLUS A3003`: OnePlus 3T 国际版
+`ONEPLUS A3013`: OnePlus 3T 国际版
 
 **OnePlus 5 (`cheeseburger`):**
 
@@ -222,11 +222,11 @@
 
 `PGKM10`: 一加 Ace 全网通版
 
-`CPH2381`: 一加 10R 印度版
+`CPH2411`: 一加 10R 150W 印度版
 
-`CPH2411`: 一加 10R 国际版
+`CPH2423`: 一加 10R 80W 印度版
 
-**一加 Ace 竞速版:**
+**一加 Ace 竞速版 (`qqcandy`):**
 
 `PGZ110`: 一加 Ace 竞速版 全网通版
 
@@ -242,7 +242,7 @@
 
 `BE2026`: OnePlus Nord N10 北美版
 
-`BE2029`: OnePlus Nord N10 国际版
+`BE2029`: OnePlus Nord N10 欧洲版/国际版
 
 **OnePlus Nord N10 (`billie8t`):**
 
@@ -260,7 +260,7 @@
 
 **OnePlus Nord N20:**
 
-`GN2200`: OnePlus Nord N20
+`GN2200` `CPH2459`: OnePlus Nord N20
 
 **OnePlus Nord N200 (`dre9`):**
 
@@ -282,12 +282,18 @@
 
 `DN2103`: OnePlus Nord 2 欧洲版
 
+**OnePlus Nord 2T:**
+
+`CPH2399`: OnePlus Nord 2T 国际版
+
+`CPH2401`: OnePlus Nord 2T 印度版
+
 **OnePlus Nord CE 2 (`ivan`):**
 
 `IV2201`: OnePlus Nord CE 2 印度版
 
-**OnePlus Nord CE 2 Lite:**
+**OnePlus Nord CE 2 Lite (`oscar`):**
 
-`CPH2401`: OnePlus Nord CE 2 Lite 印度版
+`CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
-`CPH2409`: OnePlus Nord CE 2 Lite 国际版
+`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版

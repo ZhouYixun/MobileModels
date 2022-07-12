@@ -1,4 +1,57 @@
 # 更新日志
+## 2022-07-11
+- `asus` 新增 华硕 ROG Phone 型号汇总。
+- `nubia` 新增 红魔 7S 系列 & nubia Z40S Pro。
+- `oppo_cn` 新增 OPPO A97。
+## 2022-07-09
+- `meizu` 新增 魅蓝 10s。
+## 2022-07-08
+- `vivo` 新增 vivo Y10 (t2 版)。
+## 2022-07-05
+- `vivo` 新增 vivo Y77 5G。
+## 2022-07-04
+- `huawei_cn` 新增 nova 10 系列。
+- `xiaomi` 新增 Xiaomi 12S 系列。
+## 2022-06-26
+- `zte` 新增 中兴畅行 30。
+## 2022-06-23
+- `huawei_cn` 新增 华为畅享 50 Pro。
+- `oneplus` 新增 OnePlus Nord 2T。
+## 2022-06-18
+- `realme_cn` 新增 真我 GT2 大师探索版 & Q5x。
+## 2022-06-16
+- `xiaomi` 新增 POCO F4 印度版。
+## 2022-06-11
+- `mitv_cn` 新增 小米电视 EA Pro 系列。
+## 2022-06-10
+- `realme_cn` 新增 真我 V20 & V23i。
+- `xiaomi` 新增 黑鲨 5 国际版 & POCO X4 GT。
+- `zhixuan` 新增 优畅享 50。
+## 2022-06-06
+- `huawei_cn` 新增 华为畅享 50。
+- `mitv_cn` 新增 小米盒子 4S MAX。
+## 2022-06-04
+- `mitv_cn` 新增 Redmi AI 智能电视 X 系列。
+## 2022-06-02
+- `vivo` 新增 iQOO U5e。
+- `zhixuan` 新增 TD Tech P50。
+## 2022-05-30
+- `honor_cn` 新增 荣耀 70 系列。
+## 2022-05-29
+- `vivo` 新增 vivo T2x。
+## 2022-05-28
+- `vivo` 新增 vivo Y33e。
+## 2022-05-26
+- `realme_cn` 新增 真我平板 X。
+## 2022-05-24
+- `xiaomi` 新增 Redmi Note 11SE。
+## 2022-05-23
+- `honor_cn` 增补部分代号信息。
+- `huawei_cn` 新增 HUAWEI MateBook 系列 2022 款。
+- `lenovo` 新增 小新 Pad 2022。
+- `mitv_cn` 新增 小米电视 ES Pro 86。
+- `oppo_cn` 新增 Reno8 系列, K10x & OPPO Pad Air。
+- `sony_cn` 新增 索尼手机型号汇总。
 ## 2022-05-21
 - `vivo` 新增 vivo Y72t。
 - `xiaomi` 新增 Redmi Note 11T 系列等。

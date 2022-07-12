@@ -1,8 +1,32 @@
 # CHANGELOG
+## 2022-07-11
+- `google_en` Add Pixel 6a.
+## 2022-07-09
+- `meizu_en` Add mblu 10/10s.
+## 2022-07-04
+- `xiaomi_en` Add Xiaomi 12S series & Xiaomi 12 Lite.
+## 2022-06-30
+- `oppo_global_en` Add several new models.
+- `realme_global_en` Add several new models.
+## 2022-06-23
+- `huawei_global_en` Add HUAWEI Mate Xs 2, nova 9 SE, Y70/Y90.
+- `oneplus_en` Add OnePlus Nord 2T.
+## 2022-06-16
+- `xiaomi_en` Add POCO F4 (India).
+## 2022-06-10
+- `xiaomi_en` Add Black Shark 5 series & POCO X4 GT.
+## 2022-06-07
+- `realme_global_en` Add realme GT NEO 3T.
+## 2022-06-04
+- `oppo_global_en` Add several new models.
+## 2022-06-03
+- `mitv_global_en` Add Xiaomi Fire TV F2 series.
+## 2022-05-24
+- `xiaomi_en` Add Redmi Note 11SE (China).
 ## 2022-05-21
 - `xiaomi_en` Add Redmi 10C, Note 11T Pro & POCO C40.
 ## 2022-05-18
-- `realme_en` Add realme Narzo 50 series.
+- `realme_global_en` Add realme Narzo 50 series.
 ## 2022-05-17
 - `oneplus_en` Add OnePlus Ace Speed (China) & OnePlus Nord N20 5G.
 ## 2022-04-30
