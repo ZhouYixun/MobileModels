@@ -163,13 +163,29 @@
 
 `NOH-AN50`: HUAWEI Mate 40E Pro 5G 全网通版
 
-**HUAWEI Mate 40 Pro+ (`Noahp`):**
+**HUAWEI Mate 40 Pro+ (`NoahP`):**
 
 `NOP-AN00`: HUAWEI Mate 40 Pro+ 5G 全网通版
 
-**HUAWEI Mate 40 RS 保时捷设计 (`Noahp`):**
+**HUAWEI Mate 40 RS 保时捷设计 (`NoahP`):**
 
 `NOP-AN00`: HUAWEI Mate 40 RS 保时捷设计
+
+**HUAWEI Mate 50:**
+
+`CET-AL00`: HUAWEI Mate 50 4G 全网通版
+
+**HUAWEI Mate 50E:**
+
+`CET-AL60`: HUAWEI Mate 50E 4G 全网通版
+
+**HUAWEI Mate 50 Pro:**
+
+`DCO-AL00`: HUAWEI Mate 50 Pro 4G 全网通版
+
+**HUAWEI Mate 50 RS 保时捷设计:**
+
+`DCO-AL00`: HUAWEI Mate 50 RS 保时捷设计
 
 **HUAWEI Mate X (`Tahiti`):**
 
@@ -189,7 +205,7 @@
 
 **HUAWEI Mate Xs 2 (`Palau`):**
 
-`PAL-AL00`: HUAWEI Mate Xs 2 4G 全网通版
+`PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2 4G 全网通版
 
 ## HUAWEI P 系列
 
@@ -335,15 +351,15 @@
 
 **HUAWEI P50 (`Amber`):**
 
-`ABR-AL00`: HUAWEI P50 4G 全网通版
+`ABR-AL00` `ABR-AL80`: HUAWEI P50 4G 全网通版
 
 **HUAWEI P50E (`Amber`):**
 
-`ABR-AL60`: HUAWEI P50E 4G 全网通版
+`ABR-AL60` `ABR-AL90`: HUAWEI P50E 4G 全网通版
 
 **HUAWEI P50 Pro (`Jade`):**
 
-`JAD-AL00`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
+`JAD-AL00` `JAD-AL80`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 
 `JAD-AL50` `JAD-AL60`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 
@@ -351,7 +367,7 @@
 
 `BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
 
-`BAL-AL10`: HUAWEI P50 Pocket 艺术定制版 4G 全网通版
+`BAL-AL80`: HUAWEI P50 Pocket New 4G 全网通版
 
 ## HUAWEI nova 系列
 
@@ -532,6 +548,10 @@
 **HUAWEI nova 10 Pro (`Gloria`):**
 
 `GLA-AL00`: HUAWEI nova 10 Pro 4G 全网通版
+
+**HUAWEI nova 10z (`Chanel`):**
+
+`CHA-AL80`: HUAWEI nova 10z 全网通版
 
 ## HUAWEI G 系列
 
@@ -801,7 +821,7 @@
 
 `MGA-AL00`: 华为畅享 50 全网通版
 
-**华为畅享 50 Pro ():**
+**华为畅享 50 Pro:**
 
 `CTR-AL00`: 华为畅享 50 Pro 全网通版
 
@@ -915,13 +935,31 @@
 
 `MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
 
+**HUAWEI MatePad Pro 11 (`Goethe`):**
+
+`GOT-W29`: HUAWEI MatePad Pro 11 英寸 Wi-Fi 版
+
+`GOT-W09`: HUAWEI MatePad Pro 11 英寸 性能版 Wi-Fi 版
+
+`GOT-AL09`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版
+
+`GOT-AL19`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
+
 **HUAWEI MatePad Pro 12.6 (`Wagner`):**
 
-`WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
+`WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 (2021) Wi-Fi 版 (麒麟 9000E)
 
-`WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
+`WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 (2021) Wi-Fi 版 (麒麟 9000)
 
-`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
+`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 (2021) 全网通版 (麒麟 9000)
+
+**HUAWEI MatePad Pro 12.6 (`WagnerR`):**
+
+`WGRR-W09`: HUAWEI MatePad Pro 12.6 英寸 (2022) Wi-Fi 版 (麒麟 9000E)
+
+`WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 (2022) Wi-Fi 版 (麒麟 9000)
+
+`WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 (2022) 全网通版 (麒麟 9000)
 
 **HUAWEI MatePad (`Bach3`):**
 
@@ -953,7 +991,9 @@
 
 **HUAWEI MatePad Paper:**
 
-`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸
+
+`HMW-W59`: HUAWEI MatePad Paper 典藏版 10.3 英寸
 
 **HUAWEI MatePad SE (`Agassi3K`):**
 
@@ -1001,7 +1041,7 @@
 
 **华为平板 C3 (2022):**
 
-`BZH-W00`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
+`BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
 
 **华为平板 C5:**
 
@@ -1045,7 +1085,7 @@
 
 ## 笔记本电脑
 
-**HUAWEI MateBook:**
+**HUAWEI MateBook (`Hertz`):**
 
 `HZ-W09`: HUAWEI MateBook m3
 
@@ -1053,13 +1093,13 @@
 
 `HZ-W29`: HUAWEI MateBook m7
 
-**HUAWEI MateBook X:**
+**HUAWEI MateBook X (`Watt`):**
 
 `WT-W09`: HUAWEI MateBook X i5
 
 `WT-W19`: HUAWEI MateBook X i7
 
-**HUAWEI MateBook X (2020):**
+**HUAWEI MateBook X (2020) (`Euler`):**
 
 `EUL-W19`: HUAWEI MateBook X (2020) i5 (8GB+512GB)
 
@@ -1067,7 +1107,7 @@
 
 `EUL-W29P`: HUAWEI MateBook X (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook X (2021):**
+**HUAWEI MateBook X (2021) (`EulerD`):**
 
 `EULD-WFH9`: HUAWEI MateBook X (2021) i5
 
@@ -1105,6 +1145,10 @@
 
 `MRG-W76`: HUAWEI MateBook X Pro (2022) i7
 
+**HUAWEI MateBook X Pro (2022) (`MorganF`):**
+
+`MRGF-16`: HUAWEI MateBook X Pro (2022) 12 代酷睿版
+
 **HUAWEI MateBook 13 (`Wright`):**
 
 `WRT-W19`: HUAWEI MateBook 13 i5
@@ -1129,7 +1173,7 @@
 
 `WRTB-WFE9L`: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook 13 (2020)  (`HengL`):**
+**HUAWEI MateBook 13 (2020) (`HengL`):**
 
 `HNL-WDQ9Q`: HUAWEI MateBook 13 (2020) R5 (8GB+512GB)
 
@@ -1207,6 +1251,10 @@
 
 `HKD-W76`: HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
 
+**HUAWEI MateBook 14s (`HookeF`):**
+
+`HKF-16`: HUAWEI MateBook 14s (2022)
+
 **HUAWEI MateBook 16 (`CurieM`):**
 
 `CREM-WFG9`: HUAWEI MateBook 16 R5
@@ -1217,7 +1265,7 @@
 
 `CREF-16`: HUAWEI MateBook 16s
 
-**HUAWEI MateBook D:**
+**HUAWEI MateBook D (`Pascal`):**
 
 `PL-W09`: HUAWEI MateBook D i5 集显
 
@@ -1225,7 +1273,7 @@
 
 `PL-W29`: HUAWEI MateBook D i7
 
-**HUAWEI MateBook D (2018):**
+**HUAWEI MateBook D (2018) (`MarconiC`):**
 
 `MRC-W00`: HUAWEI MateBook D (2018) i3 集显
 
@@ -1335,7 +1383,7 @@
 
 **HUAWEI MateBook D 16 (`RolleF`):**
 
-`RLEF-16`: HUAWEI MateBook D 16 (2022)
+`RLEF-16`: HUAWEI MateBook D 16 (2022) / HUAWEI MateBook D 16 SE
 
 **HUAWEI MateBook E:**
 
@@ -1343,17 +1391,25 @@
 
 `BL-W19`: HUAWEI MateBook E i5
 
-**HUAWEI MateBook E (2019):**
+**HUAWEI MateBook E (2019) (`Planck`):**
 
 `PAK-AL09`: HUAWEI MateBook E (2019)
 
-**HUAWEI MateBook E (2021):**
+**HUAWEI MateBook E (2021) (`Dirac`):**
 
 `DRC-W58`: HUAWEI MateBook E (2021) i5 (8GB+256GB)
 
 `DRC-W56`: HUAWEI MateBook E (2021) i5 (16GB+512GB)
 
 `DRC-W76`: HUAWEI MateBook E (2021) i7 (16GB+512GB)
+
+**HUAWEI MateBook E Go (`Gaokun`):**
+
+`GK-G58`: HUAWEI MateBook E Go 全网通 (8GB+256GB)
+
+`GK-G56`: HUAWEI MateBook E Go 全网通 (16GB+512GB)
+
+`GK-W76`: HUAWEI MateBook E Go 性能版 Wi-Fi (16GB+512GB)
 
 **HUAWEI MateBook B3-410 (`NobelBZ`):**
 
@@ -1468,6 +1524,16 @@
 `HD75KANA`: 华为智慧屏 S 75 (3GB+16GB)
 
 `HD75KANS`: 华为智慧屏 S Pro 75 (3GB+32GB)
+
+**华为智慧屏 S 系列 (2022):**
+
+`HD55AJMA`: 华为智慧屏 S 55 (2022)
+
+`HD65AJMA`: 华为智慧屏 S 65 (2022)
+
+**华为智慧屏 S Pro (`Kepler`):**
+
+`HD86KEPA`: 华为智慧屏 S86 Pro
 
 **华为智慧屏 SE 系列:**
 

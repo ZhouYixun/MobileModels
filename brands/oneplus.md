@@ -222,13 +222,25 @@
 
 `PGKM10`: 一加 Ace 全网通版
 
-`CPH2411`: 一加 10R 150W 印度版
+`CPH2411`: 一加 10R 长寿版 印度版
 
-`CPH2423`: 一加 10R 80W 印度版
+`CPH2423`: 一加 10R 印度版
 
 **一加 Ace 竞速版 (`qqcandy`):**
 
 `PGZ110`: 一加 Ace 竞速版 全网通版
+
+**一加 Ace Pro / 一加 10T (`ovaltine`):**
+
+`PGP110`: 一加 Ace Pro 全网通版
+
+`CPH2413`: 一加 10T 印度版
+
+`CPH2415`: 一加 10T 欧洲版/国际版
+
+`CPH2417`: 一加 10T 北美版
+
+`CPH2419`: 一加 10T T-Mobile 版
 
 **OnePlus Nord (`avicii`):**
 
@@ -262,6 +274,10 @@
 
 `GN2200` `CPH2459`: OnePlus Nord N20
 
+**OnePlus Nord N20 SE:**
+
+`CPH2469`: OnePlus Nord 20 SE
+
 **OnePlus Nord N200 (`dre9`):**
 
 `DE2117`: OnePlus Nord N200 北美版
@@ -269,6 +285,10 @@
 **OnePlus Nord N200 (`dre8t`):**
 
 `DE2118`: OnePlus Nord N200 T-Mobile 版
+
+**OnePlus Nord N300:**
+
+`CPH2389`: OnePlus Nord N300
 
 **OnePlus Nord CE (`ebba`):**
 
@@ -282,7 +302,7 @@
 
 `DN2103`: OnePlus Nord 2 欧洲版
 
-**OnePlus Nord 2T:**
+**OnePlus Nord 2T (`karen`):**
 
 `CPH2399`: OnePlus Nord 2T 国际版
 

@@ -422,6 +422,14 @@
 
 `KKG-AN70`: 荣耀 X30 Max 5G 全网通版
 
+**荣耀 X40:**
+
+`RMO-AN00`: 荣耀 X40 5G 全网通版
+
+**荣耀 X40i:**
+
+`DIO-AN00`: 荣耀 X40i 5G 全网通版
+
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**
@@ -664,7 +672,7 @@
 
 `HJC-LX9`: 荣耀畅玩 20 Pro 全网通版
 
-**荣耀畅玩 30:**
+**荣耀畅玩 30 (`Vinnie`):**
 
 `VNE-AN00`: 荣耀畅玩 30 5G 全网通版
 
@@ -753,6 +761,14 @@
 `AGM-W09HN`: 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 
 `AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 全网通版
+
+**荣耀平板 X8 (`Agassi3M`):**
+
+`AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
+
+**荣耀平板 8:**
+
+`HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
@@ -906,6 +922,12 @@
 
 `GLO-F76`: 荣耀 MagicBook 14 2022 i7
 
+**荣耀 MagicBook 14 2022 锐龙版:**
+
+`GLO-N56`: 荣耀 MagicBook 14 2022 R5
+
+`GLO-N76`: 荣耀 MagicBook 14 2022 R7
+
 **荣耀 MagicBook 15 (`BohrB`):**
 
 `Boh-WAH9HN`: 荣耀 MagicBook 15 i5
@@ -1006,6 +1028,12 @@
 
 `HGE-W76`: 荣耀 MagicBook V 14 i7
 
+**荣耀 MagicBook V 14 2022:**
+
+`HGF-W56`: 荣耀 MagicBook V 14 2022 i5
+
+`HGF-W76`: 荣耀 MagicBook V 14 2022 i7
+
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
 `NBR-WAI9`: 荣耀 MagicBook X 14 i3
@@ -1014,7 +1042,11 @@
 
 **荣耀 MagicBook X 14 2022 (`NobelDR`):**
 
-`NDR-WFH`: 荣耀 MagicBook X 14 2022 i5
+`NDR-WFH`: 荣耀 MagicBook X 14 2022 i5 (11 代酷睿)
+
+**荣耀 MagicBook X 14 2022:**
+
+`FRI-F56`: 荣耀 MagicBook X 14 2022 i5 (12 代酷睿)
 
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
@@ -1027,6 +1059,10 @@
 `BDR-WDH`: 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
 
 `BDR-WFH`: 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
+
+**荣耀 MagicBook X 16 2022:**
+
+`BRN-F56`: 荣耀 MagicBook X 16 2022 i5
 
 **荣耀猎人游戏本 V700:**
 
@@ -1075,6 +1111,20 @@
 `HN55DNTA`: 荣耀智慧屏 X2 55 英寸
 
 `HN65DNTA`: 荣耀智慧屏 X2 65 英寸
+
+**荣耀智慧屏 X3:**
+
+`HN55DNTS`: 荣耀智慧屏 X3 55 英寸
+
+`HN65DNTS`: 荣耀智慧屏 X3 65 英寸
+
+**荣耀智慧屏 X3i:**
+
+`HN55BYRA`: 荣耀智慧屏 X3i 55 英寸
+
+`HN65BYRA`: 荣耀智慧屏 X3i 65 英寸
+
+`HN75BYRA`: 荣耀智慧屏 X3i 75 英寸
 
 ## 荣耀独立前产品 
 

@@ -324,6 +324,14 @@
 
 `V2158A`: vivo Y32
 
+**vivo Y32t (`PD2168`):**
+
+`V2168A`: vivo Y32t (8GB+128GB)
+
+**vivo Y32t (`PD2180`):**
+
+`V2180A`: vivo Y32t (8GB+256GB)
+
 **vivo Y33s (`PD2166`):**
 
 `V2166A`: vivo Y33s 5G
@@ -351,6 +359,10 @@
 **vivo Y52s (t1 版) (`PD2106`):**
 
 `V2054A`: vivo Y52s (t1 版) 5G
+
+**vivo Y52t (`PD2166`):**
+
+`V2166A`: vivo Y52t 5G
 
 **vivo Y53s (`PD2111`):**
 
@@ -408,6 +420,10 @@
 
 `V2009A`: vivo Y74s 5G
 
+**vivo Y75s (2022) (`PD2069`):**
+
+`V2069BA`: vivo Y75s 5G
+
 **vivo Y76s (`PD2156`):**
 
 `V2156A`: vivo Y76s 5G
@@ -415,6 +431,10 @@
 **vivo Y77 (`PD2219`):**
 
 `V2219A`: vivo Y77 5G
+
+**vivo Y77e / vivo Y77e (t1 版) (`PD2166B`):**
+
+`V2166BA`: vivo Y77e 5G / vivo Y77e (t1 版) 5G
 
 **vivo Y81 (`PD1732`):**
 
@@ -472,7 +492,7 @@
 
 `V2123A`: vivo T1x
 
-**vivo T2 (`PD2199`):**
+**vivo T2 (`PD2199G`):**
 
 `V2199GA`: vivo T2
 
@@ -626,6 +646,14 @@
 
 `V2172A`: iQOO 9 Pro
 
+**iQOO 10 (`PD2217`):**
+
+`V2217A`: iQOO 10
+
+**iQOO 10 Pro (`PD2218`):**
+
+`V2218A`: iQOO 10 Pro
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
@@ -695,6 +723,14 @@
 **iQOO Z5x (`PD2131`):**
 
 `V2131A`: iQOO Z5x
+
+**iQOO Z6 (`PD2220`):**
+
+`V2220A`: iQOO Z6
+
+**iQOO Z6x (`PD2164K`):**
+
+`V2164KA`: iQOO Z6x
 
 ## iQOO U 系列
 

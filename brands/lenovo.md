@@ -94,9 +94,13 @@
 
 `Lenovo L70081`: 拯救者电竞手机 2 Pro
 
-**联想拯救者 Y90 电竞手机 (`diablo`):**
+**联想拯救者 Y70 (`halo`):**
 
-`Lenovo L71061`: 联想拯救者 Y90 电竞手机
+`Lenovo L71091`: 联想拯救者 Y70
+
+**联想拯救者 Y90 (`diablo`):**
+
+`Lenovo L71061`: 联想拯救者 Y90
 
 **联想乐檬 K12 (`guam`):**
 
@@ -151,6 +155,10 @@
 `Lenovo TB-J716F`: 联想小新 Pad Pro 2021
 
 `Lenovo TB-Q706F`: 联想小新 Pad Pro 12.6
+
+`TB138FC`: 联想小新 Pad Pro 2022 骁龙版
+
+`TB132FU`: 联想小新 Pad Pro 2022 迅鲲版
 
 **联想 YOGA Tab 3:**
 

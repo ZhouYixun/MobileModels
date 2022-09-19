@@ -1,4 +1,41 @@
 # CHANGELOG
+## 2022-09-15
+- `honor_global_en` Add HONOR Pad X8.
+- `oppo_global_en` Add OPPO F21s Pro.
+## 2022-09-14
+- `realme_global_en` Add realme C30s.
+## 2022-09-10
+- `apple_en` Add iPhone 14, Apple Watch Series 8, SE, Ultra.
+## 2022-09-08
+- `honor_global_en` Add HONOR 70 & HONOR Pad 8.
+- `xiaomi_en` Add Xiaomi 12T series & Redmi 11 Prime India.
+## 2022-09-07
+- `realme_global_en` Add realme C33.
+## 2022-09-05
+- `xiaomi_en` Add Redmi A1, POCO M5 & C50.
+## 2022-09-04
+- `huawei_global_en` Add HUAWEI nova 10.
+## 2022-08-31
+- `xiaomi_en` Add Redmi Note 11 SE (India).
+## 2022-08-30
+- `mitv_global_en` Add several new models.
+## 2022-08-18
+- `realme_global_en` Add realme 9i 5G (India).
+## 2022-08-11
+- `xiaomi_en` Add Redmi K50 Ultra.
+## 2022-08-09
+- `xiaomi_en` Add Xiaomi MIX Fold 2 & Xiaomi Pad 5 Pro 12.4。
+## 2022-08-04
+- `oneplus_en` Add OnePlus 10T.
+## 2022-07-27
+- `xiaomi_en` Add Redmi 10A Sport (India).
+## 2022-07-20
+- `oppo_global_en` Add several new models.
+- `xiaomi_en` Add Redmi K50i (India).
+## 2022-07-19
+- `honor_global_en` Add HONOR X8 5G.
+## 2022-07-13
+- `mitv_global_en` Add Xiaomi TV A2 series.
 ## 2022-07-11
 - `google_en` Add Pixel 6a.
 ## 2022-07-09

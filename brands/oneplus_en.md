@@ -217,13 +217,25 @@
 
 `PGKM10`: OnePlus Ace China
 
-`CPH2411`: OnePlus 10R 150W India
+`CPH2411`: OnePlus 10R Endurance India
 
-`CPH2423`: OnePlus 10R 80W India
+`CPH2423`: OnePlus 10R India
 
 **OnePlus Ace Race (`qqcandy`):**
 
 `PGZ110`: OnePlus Ace Race China
+
+**OnePlus 10T / OnePlus Ace Pro (`ovaltine`):**
+
+`PGP110`: OnePlus Ace Pro China
+
+`CPH2413`: OnePlus 10T India
+
+`CPH2415`: OnePlus 10T EU / Global
+
+`CPH2417`: OnePlus 10T North America
+
+`CPH2419`: OnePlus 10T T-Mobile
 
 **OnePlus Nord (`avicii`):**
 
@@ -257,6 +269,10 @@
 
 `GN2200` `CPH2459`: OnePlus Nord N20
 
+**OnePlus Nord N20 SE:**
+
+`CPH2469`: OnePlus Nord 20 SE
+
 **OnePlus Nord N200 (`dre9`):**
 
 `DE2117`: OnePlus Nord N200 North America
@@ -264,6 +280,10 @@
 **OnePlus Nord N200 (`dre8t`):**
 
 `DE2118`: OnePlus Nord N200 T-Mobile
+
+**OnePlus Nord N300:**
+
+`CPH2389`: OnePlus Nord N300
 
 **OnePlus Nord CE (`ebba`):**
 
@@ -277,7 +297,7 @@
 
 `DN2103`: OnePlus Nord 2 5G EU
 
-**OnePlus Nord 2T:**
+**OnePlus Nord 2T (`karen`):**
 
 `CPH2399`: OnePlus Nord 2T Global
 

@@ -341,6 +341,14 @@
 
 `2203121C`: Xiaomi 12S Ultra China
 
+**[`L12A`] Xiaomi 12T (`plato`):**
+
+`22071212AG`: Xiaomi 12T Global
+
+**[`L12U`] Xiaomi 12T Pro (`ditingp`):**
+
+`22081212UG`: Xiaomi 12T Pro Global
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -420,6 +428,10 @@
 **[`K8`] Xiaomi MIX 4 (`odin`):**
 
 `2106118C`: Xiaomi MIX 4 China
+
+**[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
+
+`22061218C`: Xiaomi MIX Fold 2
 
 **[`B3`] Mi Max (`hydrogen`):**
 
@@ -533,9 +545,13 @@
 
 `M2105K81AC`: Xiaomi Pad 5 Pro Wi-Fi
 
-**[`K81`] Xiaomi Pad 5 Pro (`enuma`):**
+**[`K81`] Xiaomi Pad 5 Pro 5G (`enuma`):**
 
 `M2105K81C`: Xiaomi Pad 5 Pro 5G
+
+**[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
+
+`22081281AC`: Xiaomi Pad 5 Pro 12.4
 
 ## Redmi phones
 
@@ -837,11 +853,11 @@
 
 `22011119UY`: Redmi 10 2022 Global (NFC)
 
-**[`L19`] Redmi 10 5G / Redmi 10 Prime+ 5G (`light`):**
+**[`L19`] Redmi 10 5G / Redmi 11 Prime 5G (`light`):**
 
 `22041219G`: Redmi 10 5G Global
 
-`22041219I`: Redmi 10 Prime+ 5G India
+`22041219I`: Redmi 11 Prime 5G India
 
 **[`L19N`] Redmi 10 5G (`thunder`):**
 
@@ -867,9 +883,13 @@
 
 `220233L2G`: Redmi 10A Global
 
-`220233L2I`: Redmi 10A India
+`220233L2I`: Redmi 10A India / Redmi 10A Sport India
 
 `220233L2C`: Redmi 10A China
+
+**[`L19A`] Redmi 11 Prime (`rock`):**
+
+`22071219AI`: Redmi 11 Prime India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1183,6 +1203,10 @@
 
 `2201117SY`: Redmi Note 11S Global (NFC)
 
+**[`K7B`] Redmi Note 11 SE (`secret`):**
+
+`22087RA4DI`: Redmi Note 11 SE India
+
 **[`K16B`] Redmi Note 11S 5G (`opal`):**
 
 `22031116BG`: Redmi Note 11S 5G Global
@@ -1321,6 +1345,14 @@
 
 `21121210C`: Redmi K50G China
 
+**[`L12`] Redmi K50 Ultra (`diting`):**
+
+`22081212C`: Redmi K50 Ultra China
+
+**[`L16`] Redmi K50i (`xagain`):**
+
+`22041216I`: Redmi K50i India
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -1350,6 +1382,18 @@
 `M1903C3GG` `M1903C3GH`: Redmi Go Global
 
 `M1903C3GI`: Redmi Go India
+
+**[`C3S`] Redmi A1 (`ice`):**
+
+`220733SG`: Redmi A1 Global
+
+`220733SI`: Redmi A1 India
+
+`220733SL`: Redmi A1 Latin America
+
+**[`D3F`] Redmi A1+ (`snow`):**
+
+`220743FI`: Redmi A1+ India
 
 ## POCO
 
@@ -1469,7 +1513,19 @@
 
 **[`K16A`] POCO M4 Pro 5G (`evergo`):**
 
-`21091116AI`: POCO M4 Pro 5G India
+`22031116AI`: POCO M4 Pro 5G India
+
+**[`L19C`] POCO M5 (`stone`):**
+
+`22071219CG`: POCO M5 Global
+
+**[`L19C`] POCO M5 (`rock`):**
+
+`22071219CI`: POCO M5 India
+
+**[`K7BP`] POCO M5s (`rosemary`):**
+
+`2207117BPG`: POCO M5s Global
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
@@ -1484,6 +1540,10 @@
 `220333QPG`: POCO C40 Global
 
 `220333QPI`: POCO C40 India
+
+**[`C3SP`] POCO C50 (`ice`):**
+
+`220733SPI`: POCO C50 India
 
 ## Black Shark
 

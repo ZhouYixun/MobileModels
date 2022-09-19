@@ -1,4 +1,60 @@
 # 更新日志
+## 2022-09-16
+- `vivo` 新增 vivo Y52t。
+## 2022-09-15
+- `honor_cn` 新增 荣耀 X40 & 荣耀平板 X8 等。
+## 2022-09-10
+- `apple` 新增 iPhone 14 系列 & Apple Watch Serie 8 等。
+## 2022-09-08
+- `xiaomi` 新增 Xiaomi 12T 系列全球版 & Redmi 11 Prime 印度版。
+## 2022-09-07
+- `sony_cn` 新增 Xperia 5 IV。
+- `vivo` 新增 vivo Y75s 5G。
+## 2022-09-06
+- `huawei_cn` 新增 HUAWEI Mate 50 系列等。
+## 2022-09-05
+- `xiaomi` 新增 部分海外型号。
+## 2022-08-31
+- `xiaomi` 新增 Redmi Note 11 SE 印度版。
+## 2022-08-26
+- `zhixuan` 新增 NZONE 50 Pro。
+## 2022-08-22
+- `vivo` 新增 iQOO Z6 & Z6x。
+## 2022-08-21
+- `huawei_cn` 增补部分笔记本代号。
+## 2022-08-17
+- `lenovo` 新增 联想小新 Pad Pro 2022。
+## 2022-08-16
+- `zte` 新增 中兴远航 30S。
+## 2022-08-14
+- `samsung_cn` 新增 Galaxy Z Fold4 & Flip4 国行版。
+## 2022-08-11
+- `vivo` 新增 vivo Y32t & Y77e。
+- `xiaomi` 新增 Redmi K50 至尊版。
+## 2022-08-10
+- `oppo_cn` 新增 OPPO Watch 3。
+## 2022-08-09
+- `xiaomi` 新增 Xiaomi MIX Fold 2 & 小米平板 5 Pro 12.4。
+## 2022-08-04
+- `oneplus` 新增 一加 Ace Pro / 10T。
+## 2022-08-02
+- `motorola` 新增 moto X30 Pro, S30 Pro, razr 2022。
+## 2022-07-27
+- `huawei_cn` 新增 HUAWEI MatePad Pro 11, MateBook X Pro, 智慧屏 S 系列等。
+- `lenovo` 新增 联想拯救者 Y70。
+- `xiaomi` 新增 Redmi 10A Sport 印度版。
+## 2022-07-21
+- `honor_cn` 新增 荣耀平板 8, 荣耀智慧屏 X3 系列, 荣耀 MagicBook 14 锐龙版。
+- `oppo_cn` 新增 OPPO K10 活力版。
+## 2022-07-20
+- `oppo_cn` 增补 OPPO Watch Free。
+- `xiaomi` 新增 Redmi K50i 印度版。
+## 2022-07-19
+- `vivo` 新增 iQOO 10 系列。
+## 2022-07-15
+- `mitv_cn` 新增 小米电视 ES Pro 系列。
+## 2022-07-13
+- `honor_cn` 新增 荣耀 X40i。
 ## 2022-07-11
 - `asus` 新增 华硕 ROG Phone 型号汇总。
 - `nubia` 新增 红魔 7S 系列 & nubia Z40S Pro。

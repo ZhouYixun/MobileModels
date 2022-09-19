@@ -193,9 +193,21 @@
 
 `NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite 5G
 
+**HONOR 70:**
+
+`FNE-NX9`: HONOR 70 5G
+
 **HONOR Magic4 Pro:**
 
 `LGE-NX9`: HONOR Magic4 Pro 5G
+
+**HONOR Magic4 Lite (`Andy`):**
+
+`ANY-LX1`: HONOR Magic4 Lite
+
+**HONOR Magic4 Lite 5G (`Andy`):**
+
+`ANY-NX1`: HONOR Magic4 Lite 5G
 
 **HONOR X7 (`Carmella`):**
 
@@ -205,6 +217,28 @@
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
 
+**HONOR X8 5G (`Vinnie`):**
+
+`VNE-N41`: HONOR X8 5G
+
+**HONOR X9 (`Andy`):**
+
+`ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR X9
+
 **HONOR X9 5G (`Andy`):**
 
 `ANY-NX1`: HONOR X9 5G
+
+**HONOR Pad 8:**
+
+`HEY-W09`: HONOR Pad 8
+
+**HONOR Pad X8 (`Agassi3M`):**
+
+`AGM3-W09HN`: HONOR Pad X8 Wi-Fi
+
+`AGM3-AL09HN`: HONOR Pad X8 LTE
+
+**HONOR Pad X8 Lite (`AgassiRM`):**
+
+`AGM-W09HN`: HONOR Pad X8 Lite
